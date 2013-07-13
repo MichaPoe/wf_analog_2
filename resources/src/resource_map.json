@@ -1,0 +1,21 @@
+{
+	"friendlyVersion": "0.2",
+	"versionDefName": "WF_ANALOG_2",
+	"media": [
+		{
+			"type": "png",
+			"defName": "IMAGE_MENU_ICON",
+			"file": "images/wf_analog_2_icon.png"
+		},
+		{
+			"type": "font",
+			"defName": "FONT_PORSCHE_CONDENSED_28",
+			"file": "fonts/911v2c.ttf"
+		},
+	 	{
+			"type": "font",
+			"defName": "FONT_DIGITAL_30",
+			"file": "fonts/digital.ttf"
+		}
+	]
+}
